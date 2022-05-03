@@ -54,7 +54,12 @@ Por fim, a análise de correlação mostra que a maior relação com o target é
 
 ## Desempenho das técnicas de Machine Learning
 
-Em Andamento.
+Para análise dos modelos de Regressão foi utilizado o RMSE. 
+
+| Técnica          | RSME |
+|------------------|------|
+| Regressão Linear | 0.77 |
+| Random Forest    | 0.50 |
 
 ## Conclusão
 
